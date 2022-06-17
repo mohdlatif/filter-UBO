@@ -1,5 +1,5 @@
 /// ExampleScript.js
-console.log("Filter UBO.");
+console.log("Filter toooy.");
 
 document.addEventListener('DOMContentLoaded', function(event) {
   
